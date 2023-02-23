@@ -1,4 +1,4 @@
-- **01-FeatureCodeGeneration:** input feature list and generate sql code to help you prepare dataset for further analysis. Unauthorized loss tagging and some overdue loss taggings are appended in the dataset. You could also adjust the sql code to better serve your purpose.
+- **01-FeatureCodeGeneration:** input feature list and generate sql code to help you prepare dataset for further analysis. Unauthorized loss tagging and some overdue loss taggings are appended in the dataset.
 
 - **02-DecisionTree:** Follow the notes in the notebook to build decision trees to help with feature selection and automatic surgical rule development.  
   
